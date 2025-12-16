@@ -54,7 +54,7 @@ export default function LyricsScreen({ onComplete }) {
                             by="word"
                             duration={lyrics[currentLyricIndex].anim}
                             animation="blurInUp"
-                            className="text-4xl md:text-5xl lg:text-6xl text-foreground drop-shadow-[0_0_10px_rgba(155,77,255,0.35)] text-balance leading-normal"
+                            className="text-4xl md:text-5xl lg:text-6xl text-foreground drop-shadow-[0_0_8px_rgba(255,255,255,0.4)] text-balance leading-normal"
                         >
                             {lyrics[currentLyricIndex].text}
                         </TextAnimate>
