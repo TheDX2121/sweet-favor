@@ -9,8 +9,8 @@ import { TextAnimate } from "./ui/text-animate"
 const lyrics = [
     { text: "Zara paas tu aa mere", duration: 3200, anim: 2.5 },
     { text: "Dheere se choo ja mujhe", duration: 3500, anim: 2.5 },
-    { text: "Kho jaaun tere pyaar mein", duration: 3800, anim: 2.5 },
-    { text: "Baahon mein bhar le mujhe", duration: 4000, anim: 2.5 },
+    { text: "Kho jaaun tere pyaar mai", duration: 3800, anim: 2.5 },
+    { text: "Baahon mai bhar le mujhe", duration: 4000, anim: 2.5 },
   ]  
   
 
