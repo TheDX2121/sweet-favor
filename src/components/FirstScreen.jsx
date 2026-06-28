@@ -41,8 +41,8 @@ export default function FirstScreen({ onNext }) {
                     transition={{ delay: 0.3, duration: 0.8 }}
                     className="text-5xl md:text-6xl text-center mb-6 max-w-3xl text-balance leading-tight text-foreground font-medium"
                 >
-                    I want to say something
-                    <span className="block text-primary">to you</span>
+                    Mujhe tumse kuch khena hai 👉👈
+                    <span className="block text-primary">yeh tumhare liye</span>
                 </motion.h1>
 
                 {/* Subtext */}
@@ -52,7 +52,7 @@ export default function FirstScreen({ onNext }) {
                     transition={{ delay: 0.5, duration: 0.8 }}
                     className="text-lg text-foreground/90 text-center max-w-md mb-10 font-light"
                 >
-                    Just listen for a moment 🤍
+                    Bs ek min meri baat sun lo 🤍
                 </motion.p>
 
                 {/* button */}
@@ -65,7 +65,7 @@ export default function FirstScreen({ onNext }) {
                         onClick={onNext}
                         className="px-10 py-4 bg-linear-to-r from-primary to-secondary text-primary-foreground rounded-full text-lg transition-all duration-300 shadow-lg hover:shadow-xl hover:from-primary/90 hover:to-secondary/90 hover:shadow-primary/20 flex items-center gap-2 font-medium"
                     >
-                        Open it <Heart size={20} className="mb-1 fill-white" />
+                        Esko kholo 👀 <Heart size={20} className="mb-1 fill-white" />
                     </button>
                 </motion.div>
             </motion.div>
