@@ -7,8 +7,8 @@ const shantellSans = Shantell_Sans({
 })
 
 export const metadata = {
-  title: "This is for you!",
-  description: "Just something simple, made with a lot of feeling."
+  title: "Yeh tumhare liye!💕",
+  description: "Bas kuch simple sa... lekin dil se banaya hua ❤️🥹"
 };
 
 export default function RootLayout({ children }) {
