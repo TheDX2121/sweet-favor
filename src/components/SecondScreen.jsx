@@ -41,7 +41,7 @@ export default function SecondScreen({ onNext }) {
                     transition={{ duration: 0.8 }}
                     className="text-4xl md:text-5xl text-center mb-10 max-w-3xl text-foreground leading-tight font-medium"
                 >
-                    Will you do me a favor, please?
+                    Ek favor karoge, please? 🥹
                 </motion.h1>
 
                 {/* Button */}
